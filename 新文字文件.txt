@@ -1,3 +1,4 @@
 init
 master update1
 issue1 update1
+issue1 update2
