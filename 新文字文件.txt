@@ -5,6 +5,10 @@ issue1 update2
 issue1 update3
 master update2
 issue2 update1
+<<<<<<< HEAD
 issue2 update2
 master update3
 master update4
+=======
+issue2 update2
+>>>>>>> issue2
