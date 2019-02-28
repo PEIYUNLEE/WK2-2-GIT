@@ -4,3 +4,6 @@ issue1 update1
 issue1 update2
 issue1 update3
 master update2
+issue2 update1
+issue2 update2
+master update3
